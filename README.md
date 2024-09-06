@@ -1,4 +1,4 @@
-# Sistem Pengajuan Pembelian Alat Berat
+# Hotel Rove Inn menyediakan reservasi hotel dan penyewaan kendaraan
 
 ## Perangkat lunak yang saya gunakan
 - Composer versi 2.6.6
